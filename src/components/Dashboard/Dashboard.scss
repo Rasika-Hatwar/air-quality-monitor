@@ -1,0 +1,24 @@
+.dashboard {
+  background-color: white;
+  //   border-radius: 5px;
+  //   padding: 5px;
+
+  #aqm-table {
+    text-align: center;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+  }
+
+  #aqm-table td,
+  #aqm-table th {
+    border: 1px solid #ddd;
+    padding: 5px;
+    text-align: center;
+  }
+
+  //   #aqm-table th {
+  //     padding-top: 12px;
+  //     padding-bottom: 12px;
+  //     text-align: center;
+  //   }
+}
