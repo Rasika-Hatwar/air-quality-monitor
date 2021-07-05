@@ -24,6 +24,7 @@ Pending Implemetations -
 2. Add input filed to let user select city for live graph details
 3. Separate server connection code
 4. Add loaders
-5. Fix graph for x and y axis intervals
-6. Fix last updated time column
-7. Fix image loading
+5. Chcek graph/chart features and attributes for better tracking
+6. Track time difference for last updated data
+7. Update image loading
+8. Update test files
