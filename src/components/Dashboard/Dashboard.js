@@ -67,7 +67,7 @@ export default function Dashboard() {
             </div>
 
             <div>
-              <LineChart width={500} height={400} data={chartData}>
+              <LineChart width={700} height={400} data={chartData}>
                 <XAxis
                   dataKey={"currentTime"}
                   label={{
