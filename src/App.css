@@ -4,15 +4,12 @@
   box-sizing: border-box;
 }
 body {
-  /* background-color: #000000;
-  color: #ffffff; */
   font-family: "Poppins", sans-serif;
 }
 
 .App {
   display: flex;
-  background-color: skyblue;
-  /* background-image: url(./assets/images/background-cover.svg); */
+  background-image: url(./assets/images/background-cover.svg);
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
